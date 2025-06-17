@@ -1,5 +1,5 @@
 - 👋 soy full stak
-- 👀 me llamo damiana
+- 👀 me llamo Damiana
 - Silicon Misiones-https://siliconmisiones.gob.ar/
 - Yanina Marquez
 
