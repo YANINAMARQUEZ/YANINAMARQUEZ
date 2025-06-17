@@ -1,8 +1,7 @@
-- 👋 Curso de programacion full stak
-- 👀 Comision A
+- 👋 soy full stak
+- 👀 me llamo damiana
 - Silicon Misiones-https://siliconmisiones.gob.ar/
 - Yanina Marquez
-- Este repositorio fue creado con fines academicos.contiene los ejercisios resueltos de la cursada 2022.
 
 <!---
 YANINAMARQUEZ/YANINAMARQUEZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
